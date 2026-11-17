@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Discord Bot
 
 A custom Discord bot built using **JavaScript, Node.js, and discord.js**. This bot responds to custom commands and interacts with users in Discord servers.
@@ -93,3 +94,7 @@ node index.js
 ## ⭐ Support
 
 If you like this project, consider giving it a star on GitHub!
+=======
+# discord-bot
+A custom Discord bot built using JavaScript, Node.js, and discord.js with custom commands and automated message responses.
+>>>>>>> fbeb0ce05e2cbefa2c4673b8385c4db461281da3
